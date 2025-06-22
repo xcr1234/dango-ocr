@@ -22,3 +22,9 @@
 # 模型选择
 
 一般选择Pro/Qwen/Qwen2.5-VL-7B-Instruct就够用了，也可以选择哈基米2.5 flash。
+
+# 后续计划
+
+1.直接在本项目中集成翻译功能
+
+2.支持MTool JSON翻译
